@@ -1,0 +1,11 @@
+.App{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    margin: 0 5px;
+}
+ul li{
+    list-style-type: disclosure-closed;
+}
